@@ -1,0 +1,9 @@
+.env
+admin-settings.properties
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+.tools/
+target/
+logs/
